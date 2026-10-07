@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alphavest999.github.io/the-logistics-brief/sitemap.xml
